@@ -10,6 +10,7 @@ TagManager:
   - Slide
   - Deep Jump
   - CinemachineTarget
+  - Ders
   layers:
   - Default
   - TransparentFX
