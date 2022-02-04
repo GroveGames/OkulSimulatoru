@@ -7,7 +7,7 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: StairCase_01_4m_Collider
-  serializedVersion: 10
+  serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
     firstByte: 0
@@ -27,9 +27,6 @@ Mesh:
   m_BindPose: []
   m_BoneNameHashes: 
   m_RootBoneNameHash: 0
-  m_BonesAABB: []
-  m_VariableBoneCountWeights:
-    m_Data: 
   m_MeshCompression: 0
   m_IsReadable: 1
   m_KeepVertices: 1
@@ -37,7 +34,7 @@ Mesh:
   m_IndexFormat: 0
   m_IndexBuffer: 000001000200010003000200040005000600050007000600080009000a0009000b000a000c000d000e000c000f000d001000110012001000120013001400150016001600150017000900180019000b000900190018001a001b00190018001b001c000f000c001c001d000f001e001d001c001e001f001d00200021002200200022002300240025002600240026002700160017002800280017002900280029002a002a0029002b002c002d002e002d002f002e00300031003200310033003200340035003600350037003600380039003a0039003b003a003c003d003e003d003f003e00400041004200410043004200440045004600450047004600480049004a0049004b004a00
   m_VertexData:
-    serializedVersion: 3
+    serializedVersion: 2
     m_VertexCount: 76
     m_Channels:
     - stream: 0
@@ -158,9 +155,8 @@ Mesh:
   m_BakedTriangleCollisionMesh: 
   m_MeshMetrics[0]: 1
   m_MeshMetrics[1]: 1
-  m_MeshOptimizationFlags: -1
+  m_MeshOptimized: 0
   m_StreamData:
-    serializedVersion: 2
     offset: 0
     size: 0
     path: 

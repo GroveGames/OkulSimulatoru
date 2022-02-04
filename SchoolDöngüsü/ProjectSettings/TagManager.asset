@@ -10,7 +10,11 @@ TagManager:
   - Slide
   - Deep Jump
   - CinemachineTarget
-  - Ders
+  - CografyaDers
+  - EdebiyatDers
+  - Kitaplarabak
+  - Foto
+  - Ses
   layers:
   - Default
   - TransparentFX

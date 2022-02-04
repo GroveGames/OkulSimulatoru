@@ -7,7 +7,7 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Classic_WallDoubleDoorFrame_01_Collider
-  serializedVersion: 10
+  serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
     firstByte: 0
@@ -27,9 +27,6 @@ Mesh:
   m_BindPose: []
   m_BoneNameHashes: 
   m_RootBoneNameHash: 0
-  m_BonesAABB: []
-  m_VariableBoneCountWeights:
-    m_Data: 
   m_MeshCompression: 0
   m_IsReadable: 1
   m_KeepVertices: 1
@@ -37,7 +34,7 @@ Mesh:
   m_IndexFormat: 0
   m_IndexBuffer: 000001000200010003000200040005000600050007000600080009000a000b0008000a000b000a000c000d000b000c000e000f00100011000e0010001200130014001500120014001600170018001600190017001a0018001b001a00160018001c001d001e001c001f001d0020001e00210020001c001e002200230024002200250023002600270028002600290027002a002b002c002a002c002d002b002e002f002b002f002c003000310032003100330032003100340033003400350033003600370038003900360038003a00360039003b003a0039003c003d003e003d003f003e003400310040003100410040004200430044004300450044002c002f0046002f0047004600
   m_VertexData:
-    serializedVersion: 3
+    serializedVersion: 2
     m_VertexCount: 72
     m_Channels:
     - stream: 0
@@ -158,9 +155,8 @@ Mesh:
   m_BakedTriangleCollisionMesh: 
   m_MeshMetrics[0]: 1
   m_MeshMetrics[1]: 1
-  m_MeshOptimizationFlags: -1
+  m_MeshOptimized: 0
   m_StreamData:
-    serializedVersion: 2
     offset: 0
     size: 0
     path: 
